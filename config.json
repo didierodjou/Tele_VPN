@@ -1,0 +1,24 @@
+{
+    "transport_type": "telegram",
+    "api_id":0 ,
+    "api_hash": "",
+    "bot_token": "",
+    "chat_id": "",
+    "vk_login": "",
+    "vk_token": "",
+    "vk_peer_id": "",
+    "vk_app_id": 0,
+    "tap_interface_name": "",
+    "server_ip": "",
+    "client_ip": "",
+    "netmask": "",
+    "mtu": 1500,
+    "subnet": "",
+    "encryption_key": "",
+    "compression_enabled": true,
+    "batch_interval": 0,
+    "max_batch_size": 524288,
+    "telegram_subnets": [
+
+    ]
+}
